@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char *ssid = "robocon";
-const char *password = "tobarobocon";
+const char *ssid = "ssid";
+const char *password = "pass";
 
 const String token = "your token";
 

@@ -4,7 +4,7 @@
 const char *ssid = "robocon";
 const char *password = "tobarobocon";
 
-const String token = "VqaiWrOso0aMtn2bnjEnIkLmMrLWEfhaq7p4jugSIWd";
+const String token = "your token";
 
 void setup() {
   // シリアル通信を開始
